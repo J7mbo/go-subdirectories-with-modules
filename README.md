@@ -1,6 +1,8 @@
 ### What have you done!?
 
-This is the simplest example of using subdirectories with go. It is not how the makers of go intended it to be used.
+This is the simplest example of using subdirectories with go (which is not how the makers of go intended it to be used).
+
+With go modules, we have app/directory/directory, which we didn't have before (I think!)
 
 Nevertheless, it's a step closer to being able to write cleaner code in separate files instead of 1 million line files.
 
